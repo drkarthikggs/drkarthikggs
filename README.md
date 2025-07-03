@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drkarthikggs
 - 👀 I’m interested in Generative AI, LLMs , Agentic AI, Prompt Engg and Fine tuning
-- 🌱 I’m currently working on Gen AI Projects for OEMS 
+- 🌱 I’m currently working on Gen AI Projects for OEMS / Defense/ IT 
 - 💞️ I’m looking to collaborate on the same
 - 📫 How to reach me ...karthikeyans@ggsinc.com
 - 😄 Pronouns: ...karthikguru or Dr Karthik

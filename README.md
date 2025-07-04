@@ -5,6 +5,7 @@
 - 📫 How to reach me ...karthikeyans@ggsinc.com
 - 😄 Pronouns: ...karthikguru or Dr Karthik
 - ⚡ Fun fact: ...Very Jovial and Down to earth guy!
+- Head of Gen AI at GGS Information Services 
 
 <!---
 drkarthikggs/drkarthikggs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
